@@ -1,0 +1,37 @@
+h1{
+    text-decoration: underline;
+}
+
+p.blue{
+    color: blue;
+}
+
+a.yellow{
+    text-decoration: underline;
+    color: yellow;
+}
+
+li.bld{
+    font-weight: bold;
+}
+
+a.red{
+    color: red;
+    text-decoration: underline;
+}
+
+a.ryl{
+    background-color: yellow;
+    text-decoration: underline red;
+}
+li.blue{
+    color: blue;
+}
+
+li.bblue{
+    font-weight: bold;
+    color: blue;
+}
+ul.hidden{
+    list-style-type: none;
+}
